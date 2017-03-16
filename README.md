@@ -1,5 +1,5 @@
 # reviewpayments
 Calculate how much you earned from reviews.
 
-#Usage
+# Usage
 ./total.py -T $UDACITY_API
